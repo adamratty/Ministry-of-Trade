@@ -10,3 +10,8 @@ In the Department of Business Affairs, our goal is not to be too restricting, ou
 
 
 Businesses are not permitted to violate any DoBA policies, including those on this document, and those announced in the DoBA Discord Server.
+
+## Article 1 - Busniess Regulations
+
+1. test
+1. test
