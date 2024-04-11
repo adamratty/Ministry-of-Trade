@@ -11,5 +11,5 @@ Businesses are not permitted to violate any DoBA policies, including those on th
 
 ## Article 1 - Founding a Busniess
 1. A discord server is required for a business license application. The following criteria is expected so that the business can function.
-  a. The Server name **must** be the name of the busniess.
-  b. The server **must** have a staff chatroom (Where staff members can speak)
+  1. The Server name **must** be the name of the busniess.
+  2. The server **must** have a staff chatroom (Where staff members can speak)
